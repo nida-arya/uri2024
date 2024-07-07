@@ -6,4 +6,9 @@ Statistics Canada. [Correspondence Table: National Occupational Classification (
 
 Statistics Canada. [Labour Force Survey: Public Use Microdata File](https://www150.statcan.gc.ca/n1/pub/71m0001x/71m0001x2021001-eng.htm).
 
+Gallacher, G., & Hossain, I. [Remote Work Dynamics: NOC 40 Remote Work Data](https://github.com/guillgall/remotework_dynamics/blob/master/Data/Output/NOC_40_remote_work.csv).
+
+Gallacher, G., & Hossain, I. [Remote Work Dynamics: EIS ONET NOC Remote Data](https://github.com/guillgall/remotework_dynamics/blob/master/Data/Output/eis_onetnoc_remote.csv).
+
+Gallacher, G., & Hossain, I. [Remote Work Dynamics: EIS Manual Remote Data](https://github.com/guillgall/remotework_dynamics/blob/master/Data/Output/eis_manual_remote.csv).
 
