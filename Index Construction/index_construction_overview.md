@@ -1,5 +1,6 @@
 
-# Data references
+# Data References
+
 Gallacher, G., & Hossain, I. [Remote Work Dynamics: EIS Manual Remote Data](https://github.com/guillgall/remotework_dynamics/blob/master/Data/Output/eis_manual_remote.csv).
 
 Gallacher, G., & Hossain, I. [Remote Work Dynamics: EIS ONET NOC Remote Data](https://github.com/guillgall/remotework_dynamics/blob/master/Data/Output/eis_onetnoc_remote.csv).
@@ -12,7 +13,8 @@ Statistics Canada. [Labour Force Survey: Public Use Microdata File](https://www1
 
 Statistics Canada. [Table 98-10-0586-01 Employment income statistics by occupation unit group, visible minority, highest level of education, work activity during the reference year, age and gender: Canada, provinces and territories](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810058601&geocode=A000011124).
 
-# Related papers
+
+# Related Papers
 
 Dingel, J., & Neiman, B. [How many jobs can be done at home?](https://www.sciencedirect.com/science/article/pii/S0047272720300992).
 
