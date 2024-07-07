@@ -1,3 +1,4 @@
+This folder contains code and data for a teleworkability index, based on NOC 2021.
 
 # Data References
 
