@@ -3,7 +3,7 @@ library(readr)
 library(dplyr)
 
 # Set working directory and clear environment
-setwd("C:/Users/nida_/Downloads/uri research")
+setwd("./Index Creation") 
 rm(list = ls())
 
 ## DATA CLEANING AND PREPROCESSING ##
