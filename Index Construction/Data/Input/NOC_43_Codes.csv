@@ -1,0 +1,44 @@
+noc_43,Occupation at main job,Codes based on NOC 2021 labour variant,Code Digits
+1,Legislative and senior management occupations,0,two_digit
+2,Specialized middle management occupations,"10, 20, 30, 40, 50",two_digit
+3,Middle management occupations in retail and wholesale trade and customer services,60,two_digit
+4,"Middle management occupations in trades, transportation, production and utilities","70, 80, 90",two_digit
+5,Professional occupations in finance,111,three_digit
+6,Professional occupations in business,112,three_digit
+7,Administrative and financial supervisors and specialized administrative occupations,12,two_digit
+8,Administrative occupations and transportation logistics occupations,13,two_digit
+9,Administrative and financial support and supply chain logistics occupations,14,two_digit
+10,Professional occupations in natural sciences,211,three_digit
+11,Professional occupations in applied sciences (except engineering),212,three_digit
+12,Professional occupations in engineering,213,three_digit
+13,Technical occupations related to natural and applied sciences,22,two_digit
+14,Health treating and consultation services professionals,311,three_digit
+15,Therapy and assessment professionals,312,three_digit
+16,Nursing and allied health professionals,313,three_digit
+17,Technical occupations in health,32,two_digit
+18,Assisting occupations in support of health services,33,two_digit
+19,Professional occupations in law,411,three_digit
+20,Professional occupations in education services,412,three_digit
+21,Professional occupations in social and community services,413,three_digit
+22,Professional occupations in government services,414,three_digit
+23,Occupations in front-line public protection services,421,three_digit
+24,"Paraprofessional occupations in legal, social, community and education services",422,three_digit
+25,Assisting occupations in education and in legal and public protection,43,two_digit
+26,"Care providers and public protection support occupations and student monitors, crossing guards and related occupations","44, 45",two_digit
+27,Professional occupations in art and culture,51,two_digit
+28,"Technical occupations in art, culture and sport",52,two_digit
+29,"Occupations in art, culture and sport",53,two_digit
+30,"Support occupations in art, culture and sport","54, 55",two_digit
+31,Retail sales and service supervisors and specialized occupations in sales and services,62,two_digit
+32,Occupations in sales and services,63,two_digit
+33,Sales and service representatives and other customer and personal services occupations,64,two_digit
+34,Sales and service support occupations,65,two_digit
+35,Technical trades and transportation officers and controllers,72,two_digit
+36,General trades,73,two_digit
+37,"Mail and message distribution, other transport equipment operators and related maintenance workers",74,two_digit
+38,"Helpers and labourers and other transport drivers, operators and labourers",75,two_digit
+39,"Supervisors and occupations in natural resources, agriculture and related production","82, 83",two_digit
+40,"Workers and labourers in natural resources, agriculture and related production","84, 85",two_digit
+41,"Supervisors, central control and process operators in processing, manufacturing and utilities and aircraft assemblers and inspectors","92, 93",two_digit
+42,"Machine operators, assemblers and inspectors in processing, manufacturing and printing",94,two_digit
+43,"Labourers in processing, manufacturing and utilities",95,two_digit
