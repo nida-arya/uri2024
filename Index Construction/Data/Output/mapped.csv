@@ -1,0 +1,579 @@
+"","noc_code","X","occupation","employment","median.income","mean.income","geography","nchar","remote_work"
+"1",10,1,"00010 Legislators",8425,57600,72200,"Canada",5,NA
+"2",18,2,"00018 Seniors managers - public and private sector",230115,106000,171400,"Canada",5,NA
+"3",10010,3,"10010 Financial managers",74540,93000,113400,"Canada",5,1
+"4",10011,4,"10011 Human resources managers",50390,92000,102000,"Canada",5,1
+"5",10012,5,"10012 Purchasing managers",26670,93000,102500,"Canada",5,1
+"6",10019,6,"10019 Other administrative services managers",46060,74000,97700,"Canada",5,1
+"7",10019,6,"10019 Other administrative services managers",46060,74000,97700,"Canada",5,1
+"8",10020,7,"10020 Insurance, real estate and financial brokerage managers",33185,97000,135600,"Canada",5,1
+"9",10021,8,"10021 Banking, credit and other investment managers",74105,94000,125600,"Canada",5,1
+"10",10022,9,"10022 Advertising, marketing and public relations managers",88440,75000,88100,"Canada",5,1
+"11",10022,9,"10022 Advertising, marketing and public relations managers",88440,75000,88100,"Canada",5,1
+"12",10029,10,"10029 Other business services managers",20685,65500,81200,"Canada",5,1
+"13",10030,11,"10030 Telecommunication carriers managers",10445,93000,101700,"Canada",5,1
+"14",11100,12,"11100 Financial auditors and accountants",197825,69000,86700,"Canada",5,1
+"15",11100,12,"11100 Financial auditors and accountants",197825,69000,86700,"Canada",5,1
+"16",11101,13,"11101 Financial and investment analysts",57330,79000,137200,"Canada",5,1
+"17",11102,14,"11102 Financial advisors",94315,66500,105700,"Canada",5,1
+"18",11103,15,"11103 Securities agents, investment dealers and brokers",12620,63200,139000,"Canada",5,1
+"19",11109,16,"11109 Other financial officers",28535,61600,78700,"Canada",5,1
+"20",11200,17,"11200 Human resources professionals",94885,71500,79200,"Canada",5,1
+"21",11200,17,"11200 Human resources professionals",94885,71500,79200,"Canada",5,1
+"22",11201,18,"11201 Professional occupations in business management consulting",97645,72000,87000,"Canada",5,1
+"23",11202,19,"11202 Professional occupations in advertising, marketing and public relations",141355,50800,59300,"Canada",5,1
+"24",11202,19,"11202 Professional occupations in advertising, marketing and public relations",141355,50800,59300,"Canada",5,1
+"25",12010,20,"12010 Supervisors, general office and administrative support workers",18390,61600,65700,"Canada",5,NA
+"26",12011,21,"12011 Supervisors, finance and insurance office workers",17550,64000,67500,"Canada",5,NA
+"27",12012,22,"12012 Supervisors, library, correspondence and related information workers",2535,46000,48000,"Canada",5,1
+"28",12013,23,"12013 Supervisors, supply chain, tracking and scheduling coordination occupations",28215,56400,61100,"Canada",5,1
+"29",12100,24,"12100 Executive assistants",48125,61200,67600,"Canada",5,1
+"30",12101,25,"12101 Human resources and recruitment officers",39830,55200,61350,"Canada",5,1
+"31",12102,26,"12102 Procurement and purchasing agents and officers",49755,64000,71500,"Canada",5,1
+"32",12103,27,"12103 Conference and event planners",21060,36800,40680,"Canada",5,0
+"33",12104,28,"12104 Employment insurance and revenue officers",32360,59200,59700,"Canada",5,0
+"34",12110,29,"12110 Court reporters, medical transcriptionists and related occupations",9085,25200,29600,"Canada",5,1
+"35",12111,30,"12111 Health information management occupations",6245,58000,57600,"Canada",5,1
+"36",12111,30,"12111 Health information management occupations",6245,58000,57600,"Canada",5,1
+"37",12112,31,"12112 Records management technicians",2845,53200,55450,"Canada",5,1
+"38",12113,32,"12113 Statistical officers and related research support occupations",5145,51200,51950,"Canada",5,1
+"39",12200,33,"12200 Accounting technicians and bookkeepers",135850,35600,40160,"Canada",5,1
+"40",12201,34,"12201 Insurance adjusters and claims examiners",30730,64500,66100,"Canada",5,1
+"41",12202,35,"12202 Insurance underwriters",16835,67000,73600,"Canada",5,1
+"42",12203,36,"12203 Assessors, business valuators and appraisers",14950,58400,66700,"Canada",5,1
+"43",13100,37,"13100 Administrative officers",272280,46800,49880,"Canada",5,1
+"44",13101,38,"13101 Property administrators",39720,44000,51250,"Canada",5,1
+"45",13102,39,"13102 Payroll administrators",39925,54400,54550,"Canada",5,1
+"46",13110,40,"13110 Administrative assistants",264150,38800,38440,"Canada",5,1
+"47",13110,40,"13110 Administrative assistants",264150,38800,38440,"Canada",5,1
+"48",13111,41,"13111 Legal administrative assistants",43425,46400,46200,"Canada",5,1
+"49",13112,42,"13112 Medical administrative assistants",33655,37200,36720,"Canada",5,0
+"50",13200,43,"13200 Customs, ship and other brokers",4850,48000,55700,"Canada",5,1
+"51",13201,44,"13201 Production and transportation logistics coordinators",48835,51600,55850,"Canada",5,1
+"52",13201,44,"13201 Production and transportation logistics coordinators",48835,51600,55850,"Canada",5,0
+"53",13201,44,"13201 Production and transportation logistics coordinators",48835,51600,55850,"Canada",5,0.666666666666667
+"54",14100,45,"14100 General office support workers",177980,36800,37400,"Canada",5,1
+"55",14101,46,"14101 Receptionists",147475,23000,25960,"Canada",5,0
+"56",14102,47,"14102 Personnel clerks",11475,48400,48960,"Canada",5,1
+"57",14103,48,"14103 Court clerks and related court services occupations",5105,53600,53450,"Canada",5,0.333333333333333
+"58",14103,48,"14103 Court clerks and related court services occupations",5105,53600,53450,"Canada",5,1
+"59",14110,49,"14110 Survey interviewers and statistical clerks",11940,17400,28640,"Canada",5,0.5
+"60",14111,50,"14111 Data entry clerks",40820,32800,34160,"Canada",5,1
+"61",14112,51,"14112 Desktop publishing operators and related occupations",770,49600,50100,"Canada",5,1
+"62",14200,52,"14200 Accounting and related clerks",166545,42800,45360,"Canada",5,1
+"63",14201,53,"14201 Banking, insurance and other financial clerks",19150,47600,51200,"Canada",5,1
+"64",14202,54,"14202 Collection clerks",12400,44800,44320,"Canada",5,0
+"65",14300,55,"14300 Library assistants and clerks",14120,21600,25880,"Canada",5,0
+"66",14301,56,"14301 Correspondence, publication and regulatory clerks",19355,48800,49800,"Canada",5,1
+"67",14400,57,"14400 Shippers and receivers",119965,35600,36800,"Canada",5,0
+"68",14401,58,"14401 Storekeepers and partspersons",44390,43600,46280,"Canada",5,NA
+"69",14402,59,"14402 Production logistics workers",8700,49200,53250,"Canada",5,0
+"70",14403,60,"14403 Purchasing and inventory control workers",35085,40400,41760,"Canada",5,1
+"71",14404,61,"14404 Dispatchers",30305,52800,56150,"Canada",5,0.666666666666667
+"72",14405,62,"14405 Transportation route and crew schedulers",3950,54000,57400,"Canada",5,1
+"73",20010,63,"20010 Engineering managers",31400,120000,138000,"Canada",5,1
+"74",20011,64,"20011 Architecture and science managers",14890,1e+05,112100,"Canada",5,1
+"75",20012,65,"20012 Computer and information systems managers",82235,112000,129400,"Canada",5,1
+"76",21100,66,"21100 Physicists and astronomers",2620,97000,107800,"Canada",5,1
+"77",21101,67,"21101 Chemists",16325,65000,70800,"Canada",5,0
+"78",21102,68,"21102 Geoscientists and oceanographers",10880,84000,106300,"Canada",5,1
+"79",21103,69,"21103 Meteorologists and climatologists",915,1e+05,91000,"Canada",5,1
+"80",21109,70,"21109 Other professional occupations in physical sciences",575,72000,77200,"Canada",5,NA
+"81",21110,71,"21110 Biologists and related scientists",34980,69500,75500,"Canada",5,0.5
+"82",21110,71,"21110 Biologists and related scientists",34980,69500,75500,"Canada",5,0.6
+"83",21111,72,"21111 Forestry professionals",5165,75000,74700,"Canada",5,0
+"84",21112,73,"21112 Agricultural representatives, consultants and specialists",6930,61200,63350,"Canada",5,0
+"85",21120,74,"21120 Public and environmental health and safety professionals",20010,74000,73800,"Canada",5,0
+"86",21200,75,"21200 Architects",18800,70500,82800,"Canada",5,1
+"87",21201,76,"21201 Landscape architects",2030,64000,68100,"Canada",5,1
+"88",21202,77,"21202 Urban and land use planners",19490,78500,82000,"Canada",5,0
+"89",21203,78,"21203 Land surveyors",7210,67000,69300,"Canada",5,0.5
+"90",21210,79,"21210 Mathematicians, statisticians and actuaries",13205,89000,107000,"Canada",5,1
+"91",21211,80,"21211 Data scientists",14155,84000,91000,"Canada",5,1
+"92",21211,80,"21211 Data scientists",14155,84000,91000,"Canada",5,1
+"93",21211,80,"21211 Data scientists",14155,84000,91000,"Canada",5,1
+"94",21220,81,"21220 Cybersecurity specialists",14095,92000,97100,"Canada",5,1
+"95",21221,82,"21221 Business systems specialists",30310,79500,79400,"Canada",5,1
+"96",21222,83,"21222 Information systems specialists",131890,83000,84600,"Canada",5,1
+"97",21223,84,"21223 Database analysts and data administrators",24525,73000,75400,"Canada",5,1
+"98",21230,85,"21230 Computer systems developers and programmers",41000,74000,78000,"Canada",5,1
+"99",21231,86,"21231 Software engineers and designers",82890,95000,108300,"Canada",5,1
+"100",21232,87,"21232 Software developers and programmers",87015,81000,87800,"Canada",5,1
+"101",21233,88,"21233 Web designers",10825,34800,43200,"Canada",5,1
+"102",21233,88,"21233 Web designers",10825,34800,43200,"Canada",5,1
+"103",21234,89,"21234 Web developers and programmers",49965,59200,63000,"Canada",5,1
+"104",21234,89,"21234 Web developers and programmers",49965,59200,63000,"Canada",5,1
+"105",21300,90,"21300 Civil engineers",64670,86000,96300,"Canada",5,1
+"106",21301,91,"21301 Mechanical engineers",54950,84000,95700,"Canada",5,0.5
+"107",21310,92,"21310 Electrical and electronics engineers",44580,95000,103100,"Canada",5,1
+"108",21311,93,"21311 Computer engineers (except software engineers and designers)",24805,1e+05,111400,"Canada",5,1
+"109",21320,94,"21320 Chemical engineers",11310,90000,106900,"Canada",5,0
+"110",21321,95,"21321 Industrial and manufacturing engineers",16115,78000,86100,"Canada",5,0.25
+"111",21322,96,"21322 Metallurgical and materials engineers",2630,98000,105800,"Canada",5,0
+"112",21330,97,"21330 Mining engineers",3320,116000,151200,"Canada",5,0
+"113",21331,98,"21331 Geological engineers",3655,93000,110400,"Canada",5,0
+"114",21332,99,"21332 Petroleum engineers",5185,134000,157200,"Canada",5,1
+"115",21390,100,"21390 Aerospace engineers",5505,94000,94900,"Canada",5,1
+"116",21399,101,"21399 Other professional engineers",6050,86000,87900,"Canada",5,0.5
+"117",22100,102,"22100 Chemical technologists and technicians",12555,56800,61250,"Canada",5,0
+"118",22101,103,"22101 Geological and mineral technologists and technicians",7750,72500,83200,"Canada",5,0.5
+"119",22110,104,"22110 Biological technologists and technicians",10285,46000,47560,"Canada",5,0
+"120",22111,105,"22111 Agricultural and fish products inspectors",3550,61200,59850,"Canada",5,0
+"121",22112,106,"22112 Forestry technologists and technicians",6685,53600,53850,"Canada",5,0
+"122",22113,107,"22113 Conservation and fishery officers",3715,64000,59000,"Canada",5,0.6
+"123",22114,108,"22114 Landscape and horticulture technicians and specialists",23925,31800,38240,"Canada",5,0
+"124",22210,109,"22210 Architectural technologists and technicians",13475,50400,53650,"Canada",5,1
+"125",22211,110,"22211 Industrial designers",10225,54000,60550,"Canada",5,1
+"126",22212,111,"22212 Drafting technologists and technicians",27445,50800,53000,"Canada",5,1
+"127",22213,112,"22213 Land survey technologists and technicians",3300,50400,53550,"Canada",5,0
+"128",22214,113,"22214 Technical occupations in geomatics and meteorology",8985,65500,65200,"Canada",5,1
+"129",22220,114,"22220 Computer network and web technicians",66285,66500,67600,"Canada",5,1
+"130",22221,115,"22221 User support technicians",61155,54400,57500,"Canada",5,1
+"131",22222,116,"22222 Information systems testing technicians",10200,51200,56600,"Canada",5,1
+"132",22230,117,"22230 Non-destructive testers and inspectors",6635,74500,79900,"Canada",5,0
+"133",22231,118,"22231 Engineering inspectors and regulatory officers",7195,82000,85900,"Canada",5,0
+"134",22232,119,"22232 Occupational health and safety specialists",19625,70500,72400,"Canada",5,0
+"135",22232,119,"22232 Occupational health and safety specialists",19625,70500,72400,"Canada",5,1
+"136",22233,120,"22233 Construction inspectors",15620,65500,66800,"Canada",5,0
+"137",22300,121,"22300 Civil engineering technologists and technicians",22425,62400,63500,"Canada",5,1
+"138",22301,122,"22301 Mechanical engineering technologists and technicians",31250,70000,73500,"Canada",5,0
+"139",22302,123,"22302 Industrial engineering and manufacturing technologists and technicians",16900,59200,62750,"Canada",5,0
+"140",22303,124,"22303 Construction estimators",26260,65500,71300,"Canada",5,1
+"141",22310,125,"22310 Electrical and electronics engineering technologists and technicians",44475,67500,70700,"Canada",5,0
+"142",22311,126,"22311 Electronic service technicians (household and business equipment)",49920,48400,50000,"Canada",5,0
+"143",22312,127,"22312 Industrial instrument technicians and mechanics",9080,92000,98000,"Canada",5,0
+"144",22313,128,"22313 Aircraft instrument, electrical and avionics mechanics, technicians and inspectors",5570,76000,75500,"Canada",5,0
+"145",30010,129,"30010 Managers in health care",37340,95000,97200,"Canada",5,1
+"146",31100,130,"31100 Specialists in clinical and laboratory medicine",32985,146000,172400,"Canada",5,0.142857142857143
+"147",31101,131,"31101 Specialists in surgery",9610,149000,182400,"Canada",5,0.142857142857143
+"148",31102,132,"31102 General practitioners and family physicians",54325,118000,139400,"Canada",5,0
+"149",31103,133,"31103 Veterinarians",10865,85000,90200,"Canada",5,0
+"150",31110,134,"31110 Dentists",19905,87000,101400,"Canada",5,0
+"151",31111,135,"31111 Optometrists",6055,79500,84300,"Canada",5,0
+"152",31112,136,"31112 Audiologists and speech-language pathologists",12445,70000,66300,"Canada",5,0.5
+"153",31120,137,"31120 Pharmacists",41945,96000,90600,"Canada",5,0
+"154",31121,138,"31121 Dietitians and nutritionists",11150,62800,58400,"Canada",5,0
+"155",31200,139,"31200 Psychologists",18900,77000,77200,"Canada",5,1
+"156",31201,140,"31201 Chiropractors",8305,48800,58550,"Canada",5,0
+"157",31202,141,"31202 Physiotherapists",26185,64000,61900,"Canada",5,0
+"158",31203,142,"31203 Occupational therapists",17615,72500,67500,"Canada",5,0
+"159",31204,143,"31204 Kinesiologists and other professional occupations in therapy and assessment",10660,36400,40120,"Canada",5,0.5
+"160",31209,144,"31209 Other professional occupations in health diagnosing and treating",6805,31000,43560,"Canada",5,0
+"161",31300,145,"31300 Nursing coordinators and supervisors",14520,84000,80700,"Canada",5,0
+"162",31301,146,"31301 Registered nurses and registered psychiatric nurses",324220,76500,73200,"Canada",5,0
+"163",31302,147,"31302 Nurse practitioners",6505,109000,101000,"Canada",5,0
+"164",31303,148,"31303 Physician assistants, midwives and allied health professionals",2910,72000,66700,"Canada",5,0
+"165",31303,148,"31303 Physician assistants, midwives and allied health professionals",2910,72000,66700,"Canada",5,0
+"166",31303,148,"31303 Physician assistants, midwives and allied health professionals",2910,72000,66700,"Canada",5,0
+"167",31303,148,"31303 Physician assistants, midwives and allied health professionals",2910,72000,66700,"Canada",5,0.666666666666667
+"168",32100,149,"32100 Opticians",9555,42000,44360,"Canada",5,0
+"169",32101,150,"32101 Licensed practical nurses",73385,55600,52600,"Canada",5,0
+"170",32102,151,"32102 Paramedical occupations",30340,81000,78900,"Canada",5,0
+"171",32103,152,"32103 Respiratory therapists, clinical perfusionists and cardiopulmonary technologists",13265,77500,75100,"Canada",5,0
+"172",32103,152,"32103 Respiratory therapists, clinical perfusionists and cardiopulmonary technologists",13265,77500,75100,"Canada",5,0
+"173",32104,153,"32104 Animal health technologists and veterinary technicians",21220,32800,33480,"Canada",5,0
+"174",32109,154,"32109 Other technical occupations in therapy and assessment",17945,38000,39280,"Canada",5,0.25
+"175",32109,154,"32109 Other technical occupations in therapy and assessment",17945,38000,39280,"Canada",5,0
+"176",32109,154,"32109 Other technical occupations in therapy and assessment",17945,38000,39280,"Canada",5,0.166666666666667
+"177",32110,155,"32110 Denturists",2365,38000,51900,"Canada",5,0
+"178",32111,156,"32111 Dental hygienists and dental therapists",27930,44400,44960,"Canada",5,0
+"179",32112,157,"32112 Dental technologists and technicians",4945,36000,39880,"Canada",5,0
+"180",32120,158,"32120 Medical laboratory technologists",20180,72000,68600,"Canada",5,0
+"181",32120,158,"32120 Medical laboratory technologists",20180,72000,68600,"Canada",5,0
+"182",32121,159,"32121 Medical radiation technologists",20035,71500,68600,"Canada",5,0
+"183",32122,160,"32122 Medical sonographers",6650,70000,65300,"Canada",5,0
+"184",32123,161,"32123 Cardiology technologists and electrophysiological diagnostic technologists",3135,56400,55350,"Canada",5,0
+"185",32124,162,"32124 Pharmacy technicians",26560,39600,41000,"Canada",5,0
+"186",32129,163,"32129 Other medical technologists and technicians",5005,48400,50240,"Canada",5,0
+"187",32200,164,"32200 Traditional Chinese medicine practitioners and acupuncturists",4295,17000,24760,"Canada",5,0
+"188",32201,165,"32201 Massage therapists",37720,18800,23600,"Canada",5,0
+"189",32209,166,"32209 Other practitioners of natural healing",4750,8200,17700,"Canada",5,0
+"190",33100,167,"33100 Dental assistants and dental laboratory assistants",36555,30600,31400,"Canada",5,0
+"191",33100,167,"33100 Dental assistants and dental laboratory assistants",36555,30600,31400,"Canada",5,0
+"192",33101,168,"33101 Medical laboratory assistants and related technical occupations",20025,44800,43920,"Canada",5,0
+"193",33102,169,"33102 Nurse aides, orderlies and patient service associates",337655,36000,36520,"Canada",5,0
+"194",33103,170,"33103 Pharmacy technical assistants and pharmacy assistants",30980,28800,29240,"Canada",5,0.166666666666667
+"195",33103,170,"33103 Pharmacy technical assistants and pharmacy assistants",30980,28800,29240,"Canada",5,0
+"196",33109,171,"33109 Other assisting occupations in support of health services",35540,30200,35280,"Canada",5,0.25
+"197",33109,171,"33109 Other assisting occupations in support of health services",35540,30200,35280,"Canada",5,0.166666666666667
+"198",40010,172,"40010 Government managers - health and social policy development and program administration",8015,105000,106200,"Canada",5,NA
+"199",40011,173,"40011 Government managers - economic analysis, policy development and program administration",11845,108000,115400,"Canada",5,NA
+"200",40012,174,"40012 Government managers - education policy development and program administration",1965,97000,98200,"Canada",5,NA
+"201",40019,175,"40019 Other managers in public administration",5010,101000,99900,"Canada",5,1
+"202",40020,176,"40020 Administrators - post-secondary education and vocational training",17785,88000,92800,"Canada",5,1
+"203",40021,177,"40021 School principals and administrators of elementary and secondary education",31570,114000,108100,"Canada",5,0.5
+"204",40030,178,"40030 Managers in social, community and correctional services",34225,64000,69400,"Canada",5,1
+"205",40040,179,"40040 Commissioned police officers and related occupations in public protection services",2170,130000,131000,"Canada",5,0
+"206",40041,180,"40041 Fire chiefs and senior firefighting officers",2690,116000,113500,"Canada",5,0
+"207",40042,181,"40042 Commissioned officers of the Canadian Armed Forces",18410,88000,84000,"Canada",5,NA
+"208",41100,182,"41100 Judges",3240,278000,260000,"Canada",5,0
+"209",41101,183,"41101 Lawyers and Quebec notaries",96330,105000,147800,"Canada",5,1
+"210",41200,184,"41200 University professors and lecturers",74610,109000,109000,"Canada",5,0.970588235294118
+"211",41201,185,"41201 Post-secondary teaching and research assistants",100070,13600,27920,"Canada",5,1
+"212",41210,186,"41210 College and other vocational instructors",100410,67500,64900,"Canada",5,0.971428571428571
+"213",41220,187,"41220 Secondary school teachers",153335,82000,72000,"Canada",5,1
+"214",41221,188,"41221 Elementary school and kindergarten teachers",295900,73000,65500,"Canada",5,1
+"215",41300,189,"41300 Social workers",66005,67500,64500,"Canada",5,0
+"216",41301,190,"41301 Therapists in counselling and related specialized therapies",34175,50000,50920,"Canada",5,0.666666666666667
+"217",41301,190,"41301 Therapists in counselling and related specialized therapies",34175,50000,50920,"Canada",5,0.5
+"218",41301,190,"41301 Therapists in counselling and related specialized therapies",34175,50000,50920,"Canada",5,1
+"219",41302,191,"41302 Religious leaders",27810,48800,49760,"Canada",5,1
+"220",41310,192,"41310 Police investigators and other investigative occupations",3610,119000,111600,"Canada",5,0.5
+"221",41310,192,"41310 Police investigators and other investigative occupations",3610,119000,111600,"Canada",5,0
+"222",41310,192,"41310 Police investigators and other investigative occupations",3610,119000,111600,"Canada",5,0
+"223",41310,192,"41310 Police investigators and other investigative occupations",3610,119000,111600,"Canada",5,0.142857142857143
+"224",41311,193,"41311 Probation and parole officers",5280,80000,74600,"Canada",5,1
+"225",41320,194,"41320 Educational counsellors",26965,62400,60600,"Canada",5,1
+"226",41321,195,"41321 Career development practitioners and career counsellors (except education)",11585,49600,50440,"Canada",5,1
+"227",41321,195,"41321 Career development practitioners and career counsellors (except education)",11585,49600,50440,"Canada",5,0.666666666666667
+"228",41400,196,"41400 Natural and applied science policy researchers, consultants and program officers",35545,78500,82500,"Canada",5,0.75
+"229",41401,197,"41401 Economists and economic policy researchers and analysts",22635,89000,107600,"Canada",5,1
+"230",41402,198,"41402 Business development officers and market researchers and analysts",41410,68000,81900,"Canada",5,1
+"231",41403,199,"41403 Social policy researchers, consultants and program officers",42115,68500,68000,"Canada",5,1
+"232",41404,200,"41404 Health policy researchers, consultants and program officers",27115,70000,70900,"Canada",5,0.5
+"233",41405,201,"41405 Education policy researchers, consultants and program officers",26390,65000,63150,"Canada",5,1
+"234",41406,202,"41406 Recreation, sports and fitness policy researchers, consultants and program officers",10160,48400,50240,"Canada",5,1
+"235",41407,203,"41407 Program officers unique to government",13575,74000,76300,"Canada",5,0
+"236",41409,204,"41409 Other professional occupations in social science",6615,55600,57750,"Canada",5,NA
+"237",42100,205,"42100 Police officers (except commissioned)",73090,109000,104000,"Canada",5,0
+"238",42101,206,"42101 Firefighters",33575,109000,102700,"Canada",5,0
+"239",42102,207,"42102 Specialized members of the Canadian Armed Forces",1610,72500,70200,"Canada",5,NA
+"240",42200,208,"42200 Paralegals and related occupations",31205,53600,55650,"Canada",5,1
+"241",42200,208,"42200 Paralegals and related occupations",31205,53600,55650,"Canada",5,1
+"242",42201,209,"42201 Social and community service workers",176975,43600,43560,"Canada",5,1
+"243",42201,209,"42201 Social and community service workers",176975,43600,43560,"Canada",5,0.333333333333333
+"244",42202,210,"42202 Early childhood educators and assistants",224080,25200,27360,"Canada",5,1
+"245",42203,211,"42203 Instructors of persons with disabilities",33340,43600,43320,"Canada",5,0.666666666666667
+"246",42204,212,"42204 Religion workers",8175,22400,30080,"Canada",5,NA
+"247",43100,213,"43100 Elementary and secondary school teacher assistants",104550,30400,29920,"Canada",5,1
+"248",43109,214,"43109 Other instructors",33475,7400,17140,"Canada",5,1
+"249",43200,215,"43200 Sheriffs and bailiffs",5290,68000,65300,"Canada",5,0
+"250",43201,216,"43201 Correctional service officers",24605,82000,78400,"Canada",5,0
+"251",43202,217,"43202 By-law enforcement and other regulatory officers",10520,65500,63450,"Canada",5,0.25
+"252",43203,218,"43203 Border services, customs, and immigration officers",10285,85000,75100,"Canada",5,0
+"253",43204,219,"43204 Operations members of the Canadian Armed Forces",35160,71500,71000,"Canada",5,NA
+"254",44100,220,"44100 Home child care providers",49205,10300,16200,"Canada",5,1
+"255",44101,221,"44101 Home support workers, caregivers and related occupations",49850,23600,27440,"Canada",5,0
+"256",44200,222,"44200 Primary combat members of the Canadian Armed Forces",9170,45600,44960,"Canada",5,NA
+"257",45100,223,"45100 Student monitors, crossing guards and related occupations",30255,6320,10580,"Canada",5,1
+"258",45100,223,"45100 Student monitors, crossing guards and related occupations",30255,6320,10580,"Canada",5,0.5
+"259",50010,224,"50010 Library, archive, museum and art gallery managers",4815,62400,66500,"Canada",5,NA
+"260",50011,225,"50011 Managers - publishing, motion pictures, broadcasting and performing arts",7820,60400,74300,"Canada",5,0
+"261",50012,226,"50012 Recreation, sports and fitness program and service directors",12720,50800,64000,"Canada",5,0
+"262",51100,227,"51100 Librarians",8945,68000,65400,"Canada",5,1
+"263",51101,228,"51101 Conservators and curators",2005,54000,53050,"Canada",5,0.5
+"264",51102,229,"51102 Archivists",1565,54800,53750,"Canada",5,1
+"265",51110,230,"51110 Editors",13855,38800,43000,"Canada",5,1
+"266",51111,231,"51111 Authors and writers (except technical)",21690,20200,35000,"Canada",5,1
+"267",51112,232,"51112 Technical writers",8325,66500,66300,"Canada",5,1
+"268",51113,233,"51113 Journalists",10270,51200,55400,"Canada",5,1
+"269",51114,234,"51114 Translators, terminologists and interpreters",16890,34000,41000,"Canada",5,0
+"270",51120,235,"51120 Producers, directors, choreographers and related occupations",31925,52000,60050,"Canada",5,0.4
+"271",51121,236,"51121 Conductors, composers and arrangers",3255,15100,27840,"Canada",5,0.666666666666667
+"272",51122,237,"51122 Musicians and singers",29130,8100,17000,"Canada",5,0
+"273",52100,238,"52100 Library and public archive technicians",9990,42000,42080,"Canada",5,1
+"274",52110,239,"52110 Film and video camera operators",5050,26800,36720,"Canada",5,0
+"275",52111,240,"52111 Graphic arts technicians",12135,51600,62050,"Canada",5,1
+"276",52112,241,"52112 Broadcast technicians",1845,70500,67900,"Canada",5,1
+"277",52113,242,"52113 Audio and video recording technicians",25070,39200,43200,"Canada",5,1
+"278",52114,243,"52114 Announcers and other broadcasters",4725,44800,61750,"Canada",5,0
+"279",52119,244,"52119 Other technical and coordinating occupations in motion pictures, broadcasting and the performing arts",27220,62400,70400,"Canada",5,0.5
+"280",52120,245,"52120 Graphic designers and illustrators",76660,40800,46920,"Canada",5,1
+"281",52121,246,"52121 Interior designers and interior decorators",26585,31600,39720,"Canada",5,1
+"282",53100,247,"53100 Registrars, restorers, interpreters and other occupations related to museum and art galleries",6105,13600,22220,"Canada",5,0
+"283",53110,248,"53110 Photographers",15710,10800,21860,"Canada",5,1
+"284",53111,249,"53111 Motion pictures, broadcasting, photography and performing arts assistants and operators",12025,30600,35600,"Canada",5,0
+"285",53120,250,"53120 Dancers",8535,7450,14480,"Canada",5,0
+"286",53121,251,"53121 Actors, comedians and circus performers",13970,7600,21500,"Canada",5,0
+"287",53121,251,"53121 Actors, comedians and circus performers",13970,7600,21500,"Canada",5,1
+"288",53122,252,"53122 Painters, sculptors and other visual artists",14975,6040,16020,"Canada",5,1
+"289",53123,253,"53123 Theatre, fashion, exhibit and other creative designers",12195,29600,39920,"Canada",5,1
+"290",53124,254,"53124 Artisans and craftspersons",14120,9300,17980,"Canada",5,0
+"291",53125,255,"53125 Patternmakers - textile, leather and fur products",635,34000,35800,"Canada",5,1
+"292",53200,256,"53200 Athletes",2800,17200,98400,"Canada",5,1
+"293",53201,257,"53201 Coaches",13940,21200,35480,"Canada",5,1
+"294",53202,258,"53202 Sports officials and referees",1760,3680,18940,"Canada",5,0
+"295",54100,259,"54100 Program leaders and instructors in recreation, sport and fitness",99150,6650,14720,"Canada",5,0
+"296",55109,260,"55109 Other performers",3540,8900,25500,"Canada",5,1
+"297",60010,261,"60010 Corporate sales managers",76935,97000,113600,"Canada",5,1
+"298",60020,262,"60020 Retail and wholesale trade managers",377880,50400,64700,"Canada",5,1
+"299",60030,263,"60030 Restaurant and food service managers",138395,33200,40280,"Canada",5,0
+"300",60031,264,"60031 Accommodation service managers",25505,40000,49600,"Canada",5,0
+"301",60040,265,"60040 Managers in customer and personal services",24825,31000,40800,"Canada",5,0
+"302",62010,266,"62010 Retail sales supervisors",61520,33600,38760,"Canada",5,1
+"303",62010,266,"62010 Retail sales supervisors",61520,33600,38760,"Canada",5,0
+"304",62020,267,"62020 Food service supervisors",71205,29200,34800,"Canada",5,0
+"305",62021,268,"62021 Executive housekeepers",1935,39600,42000,"Canada",5,0
+"306",62022,269,"62022 Accommodation, travel, tourism and related services supervisors",5975,25800,31360,"Canada",5,0
+"307",62023,270,"62023 Customer and information services supervisors",10585,54000,57700,"Canada",5,1
+"308",62024,271,"62024 Cleaning supervisors",13140,40800,42720,"Canada",5,0
+"309",62029,272,"62029 Other services supervisors",11150,40000,41640,"Canada",5,1
+"310",62100,273,"62100 Technical sales specialists - wholesale trade",50240,82000,100500,"Canada",5,1
+"311",62100,273,"62100 Technical sales specialists - wholesale trade",50240,82000,100500,"Canada",5,1
+"312",62101,274,"62101 Retail and wholesale buyers",34495,37600,47440,"Canada",5,1
+"313",62200,275,"62200 Chefs",62880,25000,30280,"Canada",5,0
+"314",62201,276,"62201 Funeral directors and embalmers",5210,54000,60100,"Canada",5,0
+"315",62202,277,"62202 Jewellers, jewellery and watch repairers and related occupations",3365,16600,24560,"Canada",5,0.25
+"316",63100,278,"63100 Insurance agents and brokers",77515,53200,66900,"Canada",5,1
+"317",63101,279,"63101 Real estate agents and salespersons",97705,38000,61650,"Canada",5,0
+"318",63102,280,"63102 Financial sales representatives",58590,53600,72100,"Canada",5,1
+"319",63200,281,"63200 Cooks",179445,16000,20540,"Canada",5,0
+"320",63201,282,"63201 Butchers - retail and wholesale",10605,33600,33600,"Canada",5,0
+"321",63202,283,"63202 Bakers",44755,21200,24520,"Canada",5,0
+"322",63210,284,"63210 Hairstylists and barbers",86365,12700,17200,"Canada",5,0
+"323",63211,285,"63211 Estheticians, electrologists and related occupations",57440,10900,16400,"Canada",5,0.25
+"324",63220,286,"63220 Shoe repairers and shoemakers",10010,46800,50000,"Canada",5,0
+"325",63221,287,"63221 Upholsterers",3380,28800,31280,"Canada",5,0
+"326",64100,288,"64100 Retail salespersons and visual merchandisers",629295,17600,28560,"Canada",5,1
+"327",64100,288,"64100 Retail salespersons and visual merchandisers",629295,17600,28560,"Canada",5,0
+"328",64101,289,"64101 Sales and account representatives - wholesale trade (non-technical)",61250,57200,69300,"Canada",5,1
+"329",64200,290,"64200 Tailors, dressmakers, furriers and milliners",17180,16200,19240,"Canada",5,0
+"330",64201,291,"64201 Image, social and other personal consultants",2115,19400,39160,"Canada",5,0.5
+"331",64300,292,"64300 Maîtres d'hôtel and hosts/hostesses",20175,5560,8280,"Canada",5,0
+"332",64301,293,"64301 Bartenders",28865,10900,13960,"Canada",5,0
+"333",64310,294,"64310 Travel counsellors",17695,23000,29080,"Canada",5,0
+"334",64311,295,"64311 Pursers and flight attendants",11840,38800,41880,"Canada",5,0
+"335",64312,296,"64312 Airline ticket and service agents",11160,31400,36960,"Canada",5,0
+"336",64313,297,"64313 Ground and water transport ticket agents, cargo service representatives and related clerks",1715,54000,53200,"Canada",5,0.5
+"337",64314,298,"64314 Hotel front desk clerks",16715,20000,22240,"Canada",5,0
+"338",64320,299,"64320 Tour and travel guides",2670,7300,14980,"Canada",5,0
+"339",64321,300,"64321 Casino workers",6995,12800,18100,"Canada",5,0.25
+"340",64322,301,"64322 Outdoor sport and recreational guides",2375,14800,19100,"Canada",5,1
+"341",64400,302,"64400 Customer services representatives - financial institutions",58750,35200,38160,"Canada",5,1
+"342",64401,303,"64401 Postal services representatives",7375,31800,35080,"Canada",5,0
+"343",64409,304,"64409 Other customer and information services representatives",243205,34000,36880,"Canada",5,1
+"344",64409,304,"64409 Other customer and information services representatives",243205,34000,36880,"Canada",5,1
+"345",64410,305,"64410 Security guards and related security service occupations",116450,32000,35160,"Canada",5,0.5
+"346",65100,306,"65100 Cashiers",358760,11100,17360,"Canada",5,0
+"347",65101,307,"65101 Service station attendants",8975,12700,17800,"Canada",5,0
+"348",65102,308,"65102 Store shelf stockers, clerks and order fillers",225115,16400,20920,"Canada",5,0.25
+"349",65109,309,"65109 Other sales related occupations",27970,13200,26640,"Canada",5,0.5
+"350",65200,310,"65200 Food and beverage servers",127700,9900,13320,"Canada",5,0
+"351",65201,311,"65201 Food counter attendants, kitchen helpers and related support occupations",391160,10600,15900,"Canada",5,0
+"352",65202,312,"65202 Meat cutters and fishmongers - retail and wholesale",6845,34800,35000,"Canada",5,0
+"353",65210,313,"65210 Support occupations in accommodation, travel and facilities set-up services",3115,18800,29400,"Canada",5,0
+"354",65211,314,"65211 Operators and attendants in amusement, recreation and sport",34780,8200,16600,"Canada",5,0.5
+"355",65211,314,"65211 Operators and attendants in amusement, recreation and sport",34780,8200,16600,"Canada",5,1
+"356",65220,315,"65220 Pet groomers and animal care workers",25095,13400,19680,"Canada",5,0
+"357",65229,316,"65229 Other support occupations in personal services",2220,7750,16840,"Canada",5,1
+"358",65310,317,"65310 Light duty cleaners",251930,17400,22440,"Canada",5,0
+"359",65310,317,"65310 Light duty cleaners",251930,17400,22440,"Canada",5,0
+"360",65311,318,"65311 Specialized cleaners",40005,21000,26080,"Canada",5,0
+"361",65312,319,"65312 Janitors, caretakers and heavy-duty cleaners",108925,30200,32000,"Canada",5,0
+"362",65320,320,"65320 Dry cleaning, laundry and related occupations",17285,25400,26760,"Canada",5,0
+"363",65329,321,"65329 Other service support occupations",24945,13100,20680,"Canada",5,0.5
+"364",65329,321,"65329 Other service support occupations",24945,13100,20680,"Canada",5,0.25
+"365",70010,322,"70010 Construction managers",88725,76000,85400,"Canada",5,0
+"366",70011,323,"70011 Home building and renovation managers",47050,24000,37240,"Canada",5,0
+"367",70012,324,"70012 Facility operation and maintenance managers",73020,65000,74700,"Canada",5,1
+"368",70012,324,"70012 Facility operation and maintenance managers",73020,65000,74700,"Canada",5,1
+"369",70020,325,"70020 Managers in transportation",39275,78000,88400,"Canada",5,0.75
+"370",70021,326,"70021 Postal and courier services managers",4010,64500,68100,"Canada",5,1
+"371",72010,327,"72010 Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations",13520,74500,79200,"Canada",5,0
+"372",72011,328,"72011 Contractors and supervisors, electrical trades and telecommunications occupations",22355,79000,82400,"Canada",5,0
+"373",72012,329,"72012 Contractors and supervisors, pipefitting trades",7485,82000,82600,"Canada",5,0
+"374",72013,330,"72013 Contractors and supervisors, carpentry trades",14550,59200,60950,"Canada",5,0
+"375",72014,331,"72014 Contractors and supervisors, other construction trades, installers, repairers and servicers",42120,47600,54900,"Canada",5,0
+"376",72020,332,"72020 Contractors and supervisors, mechanic trades",25520,74500,79800,"Canada",5,0
+"377",72021,333,"72021 Contractors and supervisors, heavy equipment operator crews",42270,81000,86000,"Canada",5,0
+"378",72022,334,"72022 Supervisors, printing and related occupations",2030,56400,57150,"Canada",5,0
+"379",72023,335,"72023 Supervisors, railway transport operations",1225,96000,97600,"Canada",5,0
+"380",72024,336,"72024 Supervisors, motor transport and other ground transit operators",10425,62400,64800,"Canada",5,0
+"381",72025,337,"72025 Supervisors, mail and message distribution occupations",8380,59600,56500,"Canada",5,1
+"382",72100,338,"72100 Machinists and machining and tooling inspectors",37095,54000,55250,"Canada",5,0
+"383",72101,339,"72101 Tool and die makers",10045,60000,61550,"Canada",5,0
+"384",72102,340,"72102 Sheet metal workers",18990,53600,54600,"Canada",5,0
+"385",72103,341,"72103 Boilermakers",3810,62000,68400,"Canada",5,0
+"386",72104,342,"72104 Structural metal and platework fabricators and fitters",6555,54800,55900,"Canada",5,0
+"387",72105,343,"72105 Ironworkers",12925,61200,63100,"Canada",5,0
+"388",72106,344,"72106 Welders and related machine operators",87165,49600,53800,"Canada",5,0
+"389",72200,345,"72200 Electricians (except industrial and power system)",97680,53200,55900,"Canada",5,0
+"390",72201,346,"72201 Industrial electricians",21960,89000,91100,"Canada",5,0
+"391",72202,347,"72202 Power system electricians",4975,95000,95400,"Canada",5,0
+"392",72203,348,"72203 Electrical power line and cable workers",13300,107000,105700,"Canada",5,0
+"393",72204,349,"72204 Telecommunications line and cable installers and repairers",9700,59600,59000,"Canada",5,0
+"394",72204,349,"72204 Telecommunications line and cable installers and repairers",9700,59600,59000,"Canada",5,0
+"395",72205,350,"72205 Telecommunications equipment installation and cable television service technicians",20485,63200,62650,"Canada",5,0
+"396",72205,350,"72205 Telecommunications equipment installation and cable television service technicians",20485,63200,62650,"Canada",5,0
+"397",72300,351,"72300 Plumbers",50615,52400,54150,"Canada",5,0
+"398",72301,352,"72301 Steamfitters, pipefitters and sprinkler system installers",20825,67000,68900,"Canada",5,0
+"399",72302,353,"72302 Gas fitters",6620,56400,61500,"Canada",5,0
+"400",72310,354,"72310 Carpenters",155690,40400,43000,"Canada",5,0
+"401",72311,355,"72311 Cabinetmakers",15900,34000,34960,"Canada",5,0
+"402",72320,356,"72320 Bricklayers",16300,41200,44680,"Canada",5,0
+"403",72321,357,"72321 Insulators",8825,48400,51800,"Canada",5,0
+"404",72400,358,"72400 Construction millwrights and industrial mechanics",65385,74000,77900,"Canada",5,0
+"405",72401,359,"72401 Heavy-duty equipment mechanics",44340,74000,79300,"Canada",5,0
+"406",72402,360,"72402 Heating, refrigeration and air conditioning mechanics",29605,59600,62450,"Canada",5,0
+"407",72403,361,"72403 Railway carmen/women",2495,84000,81000,"Canada",5,0
+"408",72404,362,"72404 Aircraft mechanics and aircraft inspectors",18495,72500,71300,"Canada",5,0
+"409",72405,363,"72405 Machine fitters",2140,61600,62150,"Canada",5,0
+"410",72406,364,"72406 Elevator constructors and mechanics",5845,102000,101500,"Canada",5,0
+"411",72410,365,"72410 Automotive service technicians, truck and bus mechanics and mechanical repairers",147535,49200,51900,"Canada",5,0
+"412",72411,366,"72411 Auto body collision, refinishing and glass technicians and damage repair estimators",28690,43200,46880,"Canada",5,0
+"413",72420,367,"72420 Oil and solid fuel heating mechanics",1585,47200,50440,"Canada",5,0
+"414",72421,368,"72421 Appliance servicers and repairers",5480,35200,39840,"Canada",5,0
+"415",72422,369,"72422 Electrical mechanics",10465,60400,61500,"Canada",5,0
+"416",72423,370,"72423 Motorcycle, all-terrain vehicle and other related mechanics",6580,47200,48280,"Canada",5,0
+"417",72423,370,"72423 Motorcycle, all-terrain vehicle and other related mechanics",6580,47200,48280,"Canada",5,0
+"418",72429,371,"72429 Other small engine and small equipment repairers",2580,30800,34040,"Canada",5,0
+"419",72500,372,"72500 Crane operators",13730,76500,81900,"Canada",5,0
+"420",72501,373,"72501 Water well drillers",580,50400,50600,"Canada",5,0
+"421",72600,374,"72600 Air pilots, flight engineers and flying instructors",17490,92000,109400,"Canada",5,0
+"422",72600,374,"72600 Air pilots, flight engineers and flying instructors",17490,92000,109400,"Canada",5,0.333333333333333
+"423",72601,375,"72601 Air traffic controllers and related occupations",4655,107000,122500,"Canada",5,1
+"424",72602,376,"72602 Deck officers, water transport",5925,91000,103900,"Canada",5,0
+"425",72603,377,"72603 Engineer officers, water transport",1440,96000,99800,"Canada",5,0
+"426",72604,378,"72604 Railway traffic controllers and marine traffic regulators",1355,86000,85700,"Canada",5,0
+"427",72999,379,"72999 Other technical trades and related occupations",8900,45200,49080,"Canada",5,0
+"428",73100,380,"73100 Concrete finishers",8785,48400,50360,"Canada",5,0
+"429",73101,381,"73101 Tilesetters",8135,31400,35680,"Canada",5,0
+"430",73102,382,"73102 Plasterers, drywall installers and finishers and lathers",26455,35200,38080,"Canada",5,0
+"431",73110,383,"73110 Roofers and shinglers",21680,33200,38120,"Canada",5,0
+"432",73111,384,"73111 Glaziers",8130,45600,46000,"Canada",5,0
+"433",73112,385,"73112 Painters and decorators (except interior decorators)",38795,21400,27760,"Canada",5,1
+"434",73113,386,"73113 Floor covering installers",10475,27800,32720,"Canada",5,0
+"435",73200,387,"73200 Residential and commercial installers and servicers",48330,30400,34600,"Canada",5,0.2
+"436",73201,388,"73201 General building maintenance workers and building superintendents",98405,38000,40240,"Canada",5,0
+"437",73202,389,"73202 Pest controllers and fumigators",4060,39200,41600,"Canada",5,0
+"438",73209,390,"73209 Other repairers and servicers",10200,29600,34840,"Canada",5,NA
+"439",73300,391,"73300 Transport truck drivers",350460,42400,45240,"Canada",5,0
+"440",73301,392,"73301 Bus drivers, subway operators and other transit operators",96240,27800,40240,"Canada",5,0
+"441",73310,393,"73310 Railway and yard locomotive engineers",5970,116000,109100,"Canada",5,0
+"442",73311,394,"73311 Railway conductors and brakemen/women",5655,81000,79400,"Canada",5,0
+"443",73400,395,"73400 Heavy equipment operators",93255,60800,65900,"Canada",5,0
+"444",73401,396,"73401 Printing press operators",14300,43600,45160,"Canada",5,0
+"445",73402,397,"73402 Drillers and blasters - surface mining, quarrying and construction",4245,68500,70400,"Canada",5,0
+"446",74100,398,"74100 Mail and parcel sorters and related occupations",23075,40800,42560,"Canada",5,0
+"447",74101,399,"74101 Letter carriers",33235,61200,55050,"Canada",5,0
+"448",74102,400,"74102 Couriers and messengers",32995,33600,38160,"Canada",5,0
+"449",74102,400,"74102 Couriers and messengers",32995,33600,38160,"Canada",5,1
+"450",74200,401,"74200 Railway yard and track maintenance workers",5665,77500,75300,"Canada",5,0
+"451",74201,402,"74201 Water transport deck and engine room crew",4615,58800,56600,"Canada",5,0
+"452",74202,403,"74202 Air transport ramp attendants",9315,32800,36560,"Canada",5,1
+"453",74202,403,"74202 Air transport ramp attendants",9315,32800,36560,"Canada",5,1
+"454",74203,404,"74203 Automotive and heavy truck and equipment parts installers and servicers",14175,31800,39480,"Canada",5,0
+"455",74204,405,"74204 Utility maintenance workers",5960,60800,63050,"Canada",5,0
+"456",74204,405,"74204 Utility maintenance workers",5960,60800,63050,"Canada",5,0
+"457",74205,406,"74205 Public works maintenance equipment operators and related workers",15465,50400,48640,"Canada",5,0
+"458",75100,407,"75100 Longshore workers",5710,87000,90000,"Canada",5,0
+"459",75101,408,"75101 Material handlers",218515,36800,42400,"Canada",5,1
+"460",75101,408,"75101 Material handlers",218515,36800,42400,"Canada",5,0
+"461",75110,409,"75110 Construction trades helpers and labourers",200790,32400,38680,"Canada",5,0
+"462",75110,409,"75110 Construction trades helpers and labourers",200790,32400,38680,"Canada",5,0
+"463",75119,410,"75119 Other trades helpers and labourers",12185,28000,34440,"Canada",5,0
+"464",75200,411,"75200 Taxi and limousine drivers and chauffeurs",53510,7300,13860,"Canada",5,0
+"465",75201,412,"75201 Delivery service drivers and door-to-door distributors",90360,18600,25960,"Canada",5,0
+"466",75201,412,"75201 Delivery service drivers and door-to-door distributors",90360,18600,25960,"Canada",5,1
+"467",75210,413,"75210 Boat and cable ferry operators and related occupations",2875,40000,45600,"Canada",5,0
+"468",75211,414,"75211 Railway and motor transport labourers",4865,34800,39680,"Canada",5,0
+"469",75212,415,"75212 Public works and maintenance labourers",31655,44000,43160,"Canada",5,0
+"470",80010,416,"80010 Managers in natural resources production and fishing",9945,143000,170400,"Canada",5,NA
+"471",80020,417,"80020 Managers in agriculture",141855,19200,28440,"Canada",5,0
+"472",80021,418,"80021 Managers in horticulture",3470,34000,44920,"Canada",5,0
+"473",80022,419,"80022 Managers in aquaculture",875,58400,59300,"Canada",5,0
+"474",82010,420,"82010 Supervisors, logging and forestry",6245,72500,80800,"Canada",5,0
+"475",82020,421,"82020 Supervisors, mining and quarrying",7980,122000,121300,"Canada",5,0
+"476",82021,422,"82021 Contractors and supervisors, oil and gas drilling and services",10140,98000,109700,"Canada",5,0
+"477",82030,423,"82030 Agricultural service contractors and farm supervisors",2800,44400,46280,"Canada",5,0.333333333333333
+"478",82031,424,"82031 Contractors and supervisors, landscaping, grounds maintenance and horticulture services",19400,42000,48080,"Canada",5,0.333333333333333
+"479",83100,425,"83100 Underground production and development miners",13765,106000,101900,"Canada",5,0
+"480",83101,426,"83101 Oil and gas well drillers, servicers, testers and related workers",6875,64500,74000,"Canada",5,0
+"481",83110,427,"83110 Logging machinery operators",6985,57200,58800,"Canada",5,0
+"482",83120,428,"83120 Fishing masters and officers",1085,55200,72200,"Canada",5,0
+"483",83121,429,"83121 Fishermen/women",11115,22400,31960,"Canada",5,0
+"484",84100,430,"84100 Underground mine service and support workers",4195,80000,80700,"Canada",5,0
+"485",84101,431,"84101 Oil and gas well drilling and related workers and services operators",5620,75500,80900,"Canada",5,0
+"486",84110,432,"84110 Chain saw and skidder operators",6885,31400,38200,"Canada",5,0
+"487",84111,433,"84111 Silviculture and forestry workers",7630,26600,33480,"Canada",5,0
+"488",84120,434,"84120 Specialized livestock workers and farm machinery operators",41810,23600,29000,"Canada",5,0.333333333333333
+"489",84120,434,"84120 Specialized livestock workers and farm machinery operators",41810,23600,29000,"Canada",5,0
+"490",84121,435,"84121 Fishing vessel deckhands",9405,20600,29520,"Canada",5,0
+"491",85100,436,"85100 Livestock labourers",26820,18000,24660,"Canada",5,0.333333333333333
+"492",85100,436,"85100 Livestock labourers",26820,18000,24660,"Canada",5,0
+"493",85101,437,"85101 Harvesting labourers",12450,12500,17520,"Canada",5,0
+"494",85101,437,"85101 Harvesting labourers",12450,12500,17520,"Canada",5,0
+"495",85102,438,"85102 Aquaculture and marine harvest labourers",2585,23200,31880,"Canada",5,0
+"496",85103,439,"85103 Nursery and greenhouse labourers",16345,16800,21720,"Canada",5,0
+"497",85104,440,"85104 Trappers and hunters",385,9900,23400,"Canada",5,0
+"498",85110,441,"85110 Mine labourers",2765,47600,59800,"Canada",5,0
+"499",85111,442,"85111 Oil and gas drilling, servicing and related labourers",6830,45200,51550,"Canada",5,0
+"500",85120,443,"85120 Logging and forestry labourers",5325,17400,24100,"Canada",5,NA
+"501",85121,444,"85121 Landscaping and grounds maintenance labourers",109675,15900,22380,"Canada",5,0
+"502",90010,445,"90010 Manufacturing managers",70875,81000,97400,"Canada",5,0.5
+"503",90011,446,"90011 Utilities managers",11295,125000,143000,"Canada",5,0
+"504",92010,447,"92010 Supervisors, mineral and metal processing",5560,81000,86500,"Canada",5,0
+"505",92011,448,"92011 Supervisors, petroleum, gas and chemical processing and utilities",12070,98000,111000,"Canada",5,0
+"506",92012,449,"92012 Supervisors, food and beverage processing",15370,58000,59300,"Canada",5,0
+"507",92013,450,"92013 Supervisors, plastic and rubber products manufacturing",3515,60800,63050,"Canada",5,0
+"508",92014,451,"92014 Supervisors, forest products processing",5640,76500,76500,"Canada",5,0
+"509",92015,452,"92015 Supervisors, textile, fabric, fur and leather products processing and manufacturing",1105,43600,45000,"Canada",5,0
+"510",92020,453,"92020 Supervisors, motor vehicle assembling",8365,72500,77400,"Canada",5,0
+"511",92021,454,"92021 Supervisors, electronics and electrical products manufacturing",2205,57200,61000,"Canada",5,0
+"512",92021,454,"92021 Supervisors, electronics and electrical products manufacturing",2205,57200,61000,"Canada",5,0
+"513",92022,455,"92022 Supervisors, furniture and fixtures manufacturing",1615,52800,53450,"Canada",5,0
+"514",92023,456,"92023 Supervisors, other mechanical and metal products manufacturing",2865,72500,73700,"Canada",5,0
+"515",92024,457,"92024 Supervisors, other products manufacturing and assembly",3025,57600,61350,"Canada",5,0
+"516",92100,458,"92100 Power engineers and power systems operators",34540,86000,100200,"Canada",5,0
+"517",92101,459,"92101 Water and waste treatment plant operators",13360,69500,68000,"Canada",5,0
+"518",93100,460,"93100 Central control and process operators, mineral and metal processing",2430,98000,93700,"Canada",5,0
+"519",93101,461,"93101 Central control and process operators, petroleum, gas and chemical processing",22100,103000,113700,"Canada",5,0
+"520",93102,462,"93102 Pulping, papermaking and coating control operators",745,90000,87800,"Canada",5,0
+"521",93200,463,"93200 Aircraft assemblers and aircraft assembly inspectors",5635,64500,62150,"Canada",5,0
+"522",94100,464,"94100 Machine operators, mineral and metal processing",8395,80000,79400,"Canada",5,0
+"523",94101,465,"94101 Foundry workers",2420,52000,57500,"Canada",5,0
+"524",94102,466,"94102 Glass forming and finishing machine operators and glass cutters",2200,37600,38440,"Canada",5,0
+"525",94103,467,"94103 Concrete, clay and stone forming operators",3660,43200,47440,"Canada",5,0
+"526",94104,468,"94104 Inspectors and testers, mineral and metal processing",2270,53600,56700,"Canada",5,0
+"527",94105,469,"94105 Metalworking and forging machine operators",11380,44000,45000,"Canada",5,0
+"528",94106,470,"94106 Machining tool operators",8665,46800,48720,"Canada",5,0
+"529",94107,471,"94107 Machine operators of other metal products",2815,46000,47560,"Canada",5,0
+"530",94110,472,"94110 Chemical plant machine operators",7390,51600,59950,"Canada",5,0
+"531",94111,473,"94111 Plastics processing machine operators",13485,40400,43160,"Canada",5,0
+"532",94112,474,"94112 Rubber processing machine operators and related workers",5215,50800,50000,"Canada",5,0
+"533",94120,475,"94120 Sawmill machine operators",6225,47600,49160,"Canada",5,0
+"534",94121,476,"94121 Pulp mill, papermaking and finishing machine operators",5025,82000,81400,"Canada",5,0
+"535",94121,476,"94121 Pulp mill, papermaking and finishing machine operators",5025,82000,81400,"Canada",5,0
+"536",94122,477,"94122 Paper converting machine operators",3565,54800,53700,"Canada",5,0
+"537",94123,478,"94123 Lumber graders and other wood processing inspectors and graders",2540,52400,53600,"Canada",5,0
+"538",94124,479,"94124 Woodworking machine operators",6585,35600,37200,"Canada",5,0
+"539",94129,480,"94129 Other wood processing machine operators",2145,54800,55550,"Canada",5,0
+"540",94130,481,"94130 Textile fibre and yarn, hide and pelt processing machine operators and workers",2720,31800,32400,"Canada",5,0
+"541",94130,481,"94130 Textile fibre and yarn, hide and pelt processing machine operators and workers",2720,31800,32400,"Canada",5,0
+"542",94131,482,"94131 Weavers, knitters and other fabric making occupations",2095,29800,31920,"Canada",5,0
+"543",94132,483,"94132 Industrial sewing machine operators",13495,22400,24220,"Canada",5,0
+"544",94133,484,"94133 Inspectors and graders, textile, fabric, fur and leather products manufacturing",1620,27000,28720,"Canada",5,0
+"545",94140,485,"94140 Process control and machine operators, food and beverage processing",48305,45200,47360,"Canada",5,0
+"546",94141,486,"94141 Industrial butchers and meat cutters, poultry preparers and related workers",15860,43600,41600,"Canada",5,0
+"547",94142,487,"94142 Fish and seafood plant workers",7370,15300,20580,"Canada",5,0
+"548",94142,487,"94142 Fish and seafood plant workers",7370,15300,20580,"Canada",5,0
+"549",94143,488,"94143 Testers and graders, food and beverage processing",7695,37200,40120,"Canada",5,0
+"550",94150,489,"94150 Plateless printing equipment operators",6815,37600,37440,"Canada",5,1
+"551",94151,490,"94151 Camera, platemaking and other prepress occupations",2035,47600,49040,"Canada",5,1
+"552",94152,491,"94152 Binding and finishing machine operators",3590,32800,33960,"Canada",5,0
+"553",94153,492,"94153 Photographic and film processors",1280,24600,28960,"Canada",5,0
+"554",94200,493,"94200 Motor vehicle assemblers, inspectors and testers",68960,43600,46320,"Canada",5,0
+"555",94201,494,"94201 Electronics assemblers, fabricators, inspectors and testers",13050,35200,36560,"Canada",5,0
+"556",94202,495,"94202 Assemblers and inspectors, electrical appliance, apparatus and equipment manufacturing",7220,36400,38320,"Canada",5,0
+"557",94203,496,"94203 Assemblers, fabricators and inspectors, industrial electrical motors and transformers",2440,44000,46720,"Canada",5,0
+"558",94204,497,"94204 Mechanical assemblers and inspectors",10445,44400,46040,"Canada",5,0
+"559",94205,498,"94205 Machine operators and inspectors, electrical apparatus manufacturing",870,40400,43700,"Canada",5,0
+"560",94210,499,"94210 Furniture and fixture assemblers, finishers, refinishers and inspectors",16770,32400,32400,"Canada",5,0
+"561",94210,499,"94210 Furniture and fixture assemblers, finishers, refinishers and inspectors",16770,32400,32400,"Canada",5,0
+"562",94211,500,"94211 Assemblers and inspectors of other wood products",8025,33600,34120,"Canada",5,NA
+"563",94212,501,"94212 Plastic products assemblers, finishers and inspectors",4990,36800,36640,"Canada",5,0
+"564",94213,502,"94213 Industrial painters, coaters and metal finishing process operators",15050,44800,47560,"Canada",5,0
+"565",94219,503,"94219 Other products assemblers, finishers and inspectors",19790,32800,35440,"Canada",5,0
+"566",94219,503,"94219 Other products assemblers, finishers and inspectors",19790,32800,35440,"Canada",5,0
+"567",95100,504,"95100 Labourers in mineral and metal processing",9420,42800,47080,"Canada",5,0
+"568",95101,505,"95101 Labourers in metal fabrication",13225,34800,37240,"Canada",5,0
+"569",95102,506,"95102 Labourers in chemical products processing and utilities",19680,29400,34360,"Canada",5,0
+"570",95102,506,"95102 Labourers in chemical products processing and utilities",19680,29400,34360,"Canada",5,0
+"571",95103,507,"95103 Labourers in wood, pulp and paper processing",17675,38000,41640,"Canada",5,0
+"572",95104,508,"95104 Labourers in rubber and plastic products manufacturing",9035,33600,35720,"Canada",5,0
+"573",95105,509,"95105 Labourers in textile processing and cutting",5735,23400,26440,"Canada",5,0
+"574",95105,509,"95105 Labourers in textile processing and cutting",5735,23400,26440,"Canada",5,0
+"575",95105,509,"95105 Labourers in textile processing and cutting",5735,23400,26440,"Canada",5,0
+"576",95106,510,"95106 Labourers in food and beverage processing",82620,30600,31760,"Canada",5,0
+"577",95107,511,"95107 Labourers in fish and seafood processing",8710,14900,18640,"Canada",5,0
+"578",95109,512,"95109 Other labourers in processing, manufacturing and utilities",85125,27600,30040,"Canada",5,0
