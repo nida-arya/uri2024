@@ -46,7 +46,7 @@ compute_weighted_avg <- function(noc_code, noc_vector, column, occupation_name) 
 }
 
 # Read and preprocess NOC_43_Codes data
-NOC_43_Codes <- read_csv("Data/Input/NOC 43 Codes.csv") %>%
+NOC_43_Codes <- read_csv("Data/Input/NOC_43_Codes.csv") %>%
   slice(2:n())
 
 # Iterate through NOC_43_Codes, calling compute_weighted_avg function to find each NOC_43 score
