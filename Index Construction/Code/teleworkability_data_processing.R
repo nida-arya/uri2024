@@ -3,13 +3,13 @@ library(readr)
 library(dplyr)
 
 # Set working directory and clear environment
-setwd("./Index Creation") 
+setwd("./Index Creation")
 rm(list = ls())
 
 ## DATA CLEANING AND PREPROCESSING ##
 
 # Read and preprocess employment income statistics (EIS) data
-eis <- read_csv("Data/Input/EIS Canada Occupation Minor Group.csv", skip = 16, n_max = 818)
+eis <- read_csv("Data/Input/canadian_occupation_minor_group_statistics.csv", skip = 16, n_max = 818)
 eis <- eis %>%
   mutate(Canada = "Canada")
 
@@ -26,14 +26,14 @@ eis$nchar <- nchar(eis$noc_code)
 eis <- subset(eis, nchar == "5")
 
 # Read and preprocess national-level remote work teleworkability data
-eis_onetnoc_remote <- read.csv("Data/Input/eis_onetnoc_remote.csv")
+eis_onetnoc_remote <- read.csv("Data/Input/Gallacher Hossain - Remote Work Dynamics/eis_onetnoc_remote.csv")
 eis_onetnoc_remote$geography <- gsub("Canada \\[1\\]", "Canada", eis_onetnoc_remote$geography)
 eis_onetnoc_remote <- eis_onetnoc_remote[eis_onetnoc_remote$geography == "Canada", ]
 
 ## MERGE NOC 2021 WITH NOC 2016 (GALLACHER HOSSAIN) REMOTE WORK SCORES ##
 
 # Load correspondence table of NOC 2016 to 2021
-noc_mapping <- read.csv("Data/Input/correpondence_table/noc2016v1_3-noc2021v1_0-eng.csv")
+noc_mapping <- read.csv("Data/Input/correspondence_table.csv")
 
 # Merge GH (Gallacher Hossain) 2016 data with NOC mapping
 mapped2016 <- merge(eis_onetnoc_remote, noc_mapping, by.x = "noc_code", by.y = "NOC.2016.V1.3.Code", all.x = TRUE)
@@ -58,7 +58,7 @@ onetnoc_scores <- onetnoc_scores %>% rename(remote_work = weighted_average)
 write.csv(onetnoc_scores, file = "Data/Output/onetnoc_scores.csv")
 
 # Load GH manual remote work scores
-manual_remote_work <- read.csv("Data/Input/gallacher_hossain/eis_manual_remote.csv")
+manual_remote_work <- read.csv("Data/Input/Gallacher Hossain - Remote Work Dynamics/eis_manual_remote.csv")
 
 # Replace Canada[1] with Canada
 manual_remote_work$geography <- gsub("Canada \\[1\\]", "Canada", manual_remote_work$geography)
