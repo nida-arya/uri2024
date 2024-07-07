@@ -4,7 +4,7 @@ rm(list = ls())
 # Read in the data files
 manual_scores <- read_csv("Data/Output/manual_scores.csv")
 onetnoc_scores <- read_csv("Data/Output/onetnoc_scores.csv")
-NOC_40 <- read_csv("Data/Input/NOC_40_remote_work.csv")
+NOC_40 <- read_csv("Data/Input/Gallacher Hossain - Remote Work Dynamics/NOC_40_remote_work.csv")
 
 # Prepare NOC_43 data frame
 NOC_43 <- NOC_40 %>%
