@@ -1,5 +1,9 @@
 This folder contains code and data for a teleworkability index, based on NOC 2021.
 
+# Methodology
+
+I followed a similar approach to Gallacher and Iqbal's paper. I merged
+
 # Data References
 
 Gallacher, G., & Hossain, I. [Remote Work Dynamics: EIS Manual Remote Data](https://github.com/guillgall/remotework_dynamics/blob/master/Data/Output/eis_manual_remote.csv).
