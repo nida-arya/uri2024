@@ -4,7 +4,7 @@ This folder contains code and data for a teleworkability index, based on NOC 202
 
 I employed a methodology similar to that in Gallacher and Hossain's paper. Given that Gallacher and Hossain's paper had a remote work index with NOC 2016 codes, I mapped these to NOC 2021 codes. These were then used to develop a teleworkability index for NOC 43 and NOC 10, a broader occupational classification used in the Labour Force Survey.
 
-There were some disparities with employment statistics between the 2016 and 2021 census, primarily there was not occupation unit group data available for senior managers, so in that case I used the data for them from Gallacher and Hossain's paper. 
+There were discrepancies in employment statistics between the 2016 and 2021 census, particularly due to the absence of occupation unit group data for senior managers. To address this, I instead used a teleworkability index for Legislators and Senior Managers directly from Gallacher and Hossain's paper. 
 
 # Data References
 
