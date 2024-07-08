@@ -141,4 +141,4 @@ NOC_10 <- NOC_10 %>%
   rename(remote_work = remote_work_onet)
 
 # Write the updated NOC_43 to a CSV file
-write.csv(NOC_43, file = "Data/Output/NOC_10_remote_work.csv")
+write.csv(NOC_10, file = "Data/Output/NOC_10_remote_work.csv")
