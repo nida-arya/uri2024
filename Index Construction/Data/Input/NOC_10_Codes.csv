@@ -1,0 +1,11 @@
+﻿noc_10,Occupation at main job,Codes based on NOC 2021 labour variant
+1,Management occupations,"00, 10, 20, 30, 40, 50, 60, 70, 80, 90"
+2,"Business, finance and administration occupations, except management","11, 12, 13, 14"
+3,"Natural and applied sciences and related occupations, except management","21, 22"
+4,"Health occupations, except management","31, 32, 33"
+5,"Occupations in education, law and social, community and government services, except management","41, 42, 43, 44, 45"
+6,"Occupations in art, culture, recreation and sport, except management","51, 52, 53, 54, 55"
+7,"Sales and service occupations, except management","62, 63, 64, 65"
+8,"Trades, transport and equipment operators and related occupations, except management","72, 73, 74, 75"
+9,"Natural resources, agriculture and related production occupations, except management","82, 83, 84, 85"
+10,"Occupations in manufacturing and utilities, except management","72, 73, 74, 75"
