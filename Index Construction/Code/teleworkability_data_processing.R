@@ -25,6 +25,9 @@ eis$noc_code <- gsub("[^0-9]", "", eis$occupation)
 eis$nchar <- nchar(eis$noc_code) 
 eis <- subset(eis, nchar == "5")
 
+write.csv(eis, file = "Data/Output/eis_merge.csv")
+
+
 # Read and preprocess national-level remote work teleworkability data
 eis_onetnoc_remote <- read.csv("Data/Input/Gallacher Hossain - Remote Work Dynamics/eis_onetnoc_remote.csv")
 eis_onetnoc_remote$geography <- gsub("Canada \\[1\\]", "Canada", eis_onetnoc_remote$geography)
